@@ -1,0 +1,6 @@
+body {
+display: flex;
+justify-content: center; align-items: center;
+background-color: #cadfe8; background: linear-gradient (135deg,
+#a34a01 0%, #654201 100%); background-repeat: no-repeat; color: #FFF;
+}
